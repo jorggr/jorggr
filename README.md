@@ -19,5 +19,6 @@ Telegram bot for Cacti: Retrieve the information from the registered thresholds 
 [Link](https://github.com/jorggr/telegram-cacti)
 
 **Personal projects:**
+
 <a href="https://twitter.com/jorgr__"><img src="./assets/twitter-icons-circle-blue.png" width="20" alt="twitter-logo"></a>
 <a href="https://www.linkedin.com/in/jorggr"><img src="./assets/Iinkedin.png" width="20" alt="twitter-logo"></a>
