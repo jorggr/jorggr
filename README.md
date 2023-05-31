@@ -9,7 +9,10 @@
 
 <a href="https://www.cloudskillsboost.google/public_profiles/d9d520b1-a373-41c5-867c-e50f77a73a7f"><img src="./assets/gcp.png" width="20" alt="gcp"></a>
 
-<a href="https://www.cloudskillsboost.google/public_profiles/d9d520b1-a373-41c5-867c-e50f77a73a7f/badges/3771936"><img src="./assets/skill-badge-01.png" width="100" alt="gcp"></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/d9d520b1-a373-41c5-867c-e50f77a73a7f/badges/3771936"><img src="./assets/skill-badge-01.png" width="100" alt="Create and Manage Cloud Resources
+"></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/d9d520b1-a373-41c5-867c-e50f77a73a7f/badges/3788681"><img src="./assets/skill-badge-01.png" width="100" alt="Perform Foundational Infrastructure Tasks in Google Cloud
+"></a>
 
 **Languages and tools:**
 
