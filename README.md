@@ -12,14 +12,14 @@
 
 **Languages and tools:**
 
-- [x] `bash`
+- [x] `linux (ubuntu, centos, rhel)`
 - [x] `python`
 - [x] `django`
 - [x] `javascript`
 - [x] `postgresql`
 - [x] `mongodb`
 - [x] `nginx`
-- [x] `linux (ubuntu, centos, rhel)`
+- [x] `bash`
 - [x] `ansible`
 - [x] `openstack`
 - [x] `docker`
