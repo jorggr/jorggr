@@ -1,10 +1,14 @@
 <p align="center">🇲🇽</p>
 <h1 align="center">Hi there, I'm Jorge</h1>
 <p align="center">Speaker of the Mixtec language Sa'an Ñuu Savi</p>
-<h1 align="center">
-<a href="https://twitter.com/jorgr__"><img src="./assets/twitter-icons-circle-blue.png" width="20" alt="twitter-logo"></a>
-<a href="https://www.linkedin.com/in/jorggr"><img src="./assets/Iinkedin.png" width="20" alt="twitter-logo"></a>
-</h1>
+<p align="center">
+    <a href="https://twitter.com/jorgr__">
+        <img src="./assets/twitter-icons-circle-blue.png" width="20" alt="twitter-logo">
+    </a>
+    <a href="https://www.linkedin.com/in/jorggr">
+        <img src="./assets/Iinkedin.png" width="20" alt="linkedin-logo">
+    </a>
+</p>
 
 **Languages and tools:**
 
