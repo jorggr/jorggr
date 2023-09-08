@@ -8,19 +8,19 @@
 
 **Languages and tools:**
 
-- [x] bash
-- [x] python
-- [x] django
-- [x] javascript
-- [x] postgresql
-- [x] mongodb
-- [x] nginx
-- [x] linux (ubuntu, centos, rhel)
-- [x] ansible
-- [x] openstack
-- [x] docker
-- [x] icinga
-- [x] cacti
+- [x] `bash`
+- [x] `python`
+- [x] `django`
+- [x] `javascript`
+- [x] `postgresql`
+- [x] `mongodb`
+- [x] `nginx`
+- [x] `linux (ubuntu, centos, rhel)`
+- [x] `ansible`
+- [x] `openstack`
+- [x] `docker`
+- [x] `icinga`
+- [x] `cacti`
 
 **Personal projects:**
 
