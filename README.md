@@ -29,3 +29,5 @@
 **Personal projects:**
 
 Telegram bot for Cacti: Retrieve the information from the registered thresholds in the cacti database and send alerts to the registered Telegram group. [Link](https://github.com/jorggr/telegram-cacti)
+
+Deploy your own json-server (RHEL/Centos/Debian/Ubuntu). [Link](https://github.com/jorggr/personal-json-server)
